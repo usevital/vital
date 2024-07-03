@@ -113,11 +113,6 @@ hash = "c85c3e680af7e30e2379956a67bd8b0f5d424390f7a130f507143ec4984cc6cd"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
