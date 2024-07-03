@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8f0045c1f4b6a8bc0feeb64f6c95638383bb992b9dcc4cee0974ab85f6115b6e"
+hash = "b4eedf166e964b70407b113da858790d9e5e93e30ce13c32e663cf28469d46f4"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "515494490fe23d76d26b544cb1ae46dfaeb4662c11ea543d09fdded6c486f649"
+hash = "bd026bd6a8e0b7bd8dc6802c733d09775eead2ad40c8f243917facfcd2e33e29"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
 metafile = true
 
 [[files]]
