@@ -102,6 +102,11 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "3efb5df489cdac5c07964f7d2d6bcb8f0464f76e55b4397ed85f9e378fa1a784"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
@@ -127,6 +132,11 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "d1535f40a07215d4fdffb625996d63ff9b0eb46e460e9a7ceb2a498f4398696b"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
 metafile = true
@@ -134,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
+file = "mods/deftulib.pw.toml"
+hash = "7bd2161274e73d7e3b228a11dc7aeec4486a83ce2d987255d7ff4c2f439f746c"
 metafile = true
 
 [[files]]
@@ -299,6 +314,16 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
+metafile = true
+
+[[files]]
+file = "mods/screencapper.pw.toml"
+hash = "8e48f46223449c4da1b5ed75b8c6240ff2a67e0528b756f7fa50d95776739b6d"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "9403535f04001da4567379d0bf3164cc9a8dacbee42ba48296059d4955cb309e"
 metafile = true
 
 [[files]]

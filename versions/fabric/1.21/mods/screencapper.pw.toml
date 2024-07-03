@@ -1,0 +1,13 @@
+name = "Screencapper"
+filename = "Screencapper-1.4.5+1.21-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yzNFLSqx/versions/9qGVgPje/Screencapper-1.4.5%2B1.21-fabric.jar"
+hash-format = "sha1"
+hash = "4ffd96837879ebfea61d26e9c6859b5b5f056423"
+
+[update]
+[update.modrinth]
+mod-id = "yzNFLSqx"
+version = "9qGVgPje"

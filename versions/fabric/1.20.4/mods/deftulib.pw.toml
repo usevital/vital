@@ -1,0 +1,13 @@
+name = "DeftuLib"
+filename = "DeftuLib-1.8.2+1.20.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WfhjX9sQ/versions/QkkcwZTA/DeftuLib-1.8.2%2B1.20.4-fabric.jar"
+hash-format = "sha1"
+hash = "2b2076bcd31224d98f4ef5ea418a9c91beb672f3"
+
+[update]
+[update.modrinth]
+mod-id = "WfhjX9sQ"
+version = "QkkcwZTA"
