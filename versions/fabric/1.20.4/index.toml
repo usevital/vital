@@ -424,3 +424,13 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
 metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguidark.pw.toml"
+hash = "70066d4a07af1858cfc2d14cbc2caaf024aae22618643945043385c449959afa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguilight.pw.toml"
+hash = "adc0db59928e08d1c3255b28a416f47986ad5cace769256758fc076308c26c3d"
+metafile = true

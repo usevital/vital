@@ -1,0 +1,13 @@
+name = "Reimagined GUI (Light)"
+filename = "ReimaginedGUI(Light) 1.20.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6seZEdkp/versions/14xMYkwx/ReimaginedGUI%28Light%29%201.20.6.zip"
+hash-format = "sha1"
+hash = "e3e57d9c935251daff315f2af65743e638a176e5"
+
+[update]
+[update.modrinth]
+mod-id = "6seZEdkp"
+version = "14xMYkwx"
