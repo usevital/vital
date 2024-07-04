@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "b4b55849f2cf43f7a4b33c9152bfbe1e358a85bf4e1dbdb507d03bb3bc20d239"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "7a8e698f0054554fe6358957db7e7c01d6677492b02f88aa2f2d3b40baad8c28"
 
