@@ -13,8 +13,8 @@
     ·
     <a href="https://github.com/intergrav/vital/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/vital"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-  <a href="https://discord.gg/wncdz7e8jy"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
+  <a href="https://modrinth.com/modpack/vital"><img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-badge-modrinth.svg" alt="Available on Modrinth"></a>
+  <a href="https://discord.gg/wncdz7e8jy"><img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-badge-discord.svg" alt="Chat on Discord"></a>
 </div>
 
 Vital is a modpack designed as an **alternative to [Essential](https://modrinth.com/mod/essential)** (and OptiFine). It includes the majority of Essential and OptiFine's features, including but not limited to: world hosting, cosmetics, many resource pack features, shaders, and a major improvement in rendering and logic performance. It also includes some extra features, like input fixes for Linux and MacOS. This modpack is built and kept in sync with my other project, [Additive](https://modrinth.com/modpack/additive), which only includes the performance and OptiFine features. Want your own mods that aren't included in Vital? Don't worry! You can easily add your favorite mods after installation.
