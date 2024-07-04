@@ -13,6 +13,18 @@ file = "config/isxander-main-menu-credits.json"
 hash = "7a8e698f0054554fe6358957db7e7c01d6677492b02f88aa2f2d3b40baad8c28"
 
 [[files]]
+file = "config/yosbr/Deftu/deftulib.toml"
+hash = "1a5b08f002958561118894cd930da4abb2270ee84e3a8eb579cbe492254c0214"
+
+[[files]]
+file = "config/yosbr/Deftu/screencapper.toml"
+hash = "bfbc2a3574617e4084540a40881f963a1645220c00117fd7394eacd8cbf3c522"
+
+[[files]]
+file = "config/yosbr/Deftu/sharex.json"
+hash = "a01e270eed44f0687daea20bc99c7b16d8ef106df5bf30cf6f2a57cb7f47764e"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "e0d9ce47a87536c707b797789b53e9e4f09b273f69098b1303b0815ebd82b3c5"
 

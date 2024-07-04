@@ -1,0 +1,50 @@
+
+[screencapper]
+
+	[screencapper.config_category]
+
+		[screencapper.config_category.general]
+
+			[screencapper.config_category.general.screencapper]
+
+				[screencapper.config_category.general.screencapper.config]
+
+					[screencapper.config_category.general.screencapper.config.general]
+						preview = true
+						preview_time = 5
+						auto_copy = true
+						toggle = true
+						preview_position = 3
+
+		[screencapper.config_category.upload]
+
+			[screencapper.config_category.upload.screencapper]
+
+				[screencapper.config_category.upload.screencapper.config]
+
+					[screencapper.config_category.upload.screencapper.config.upload]
+						mode = 0
+						toggle = false
+
+						[screencapper.config_category.upload.screencapper.config.upload.sharex]
+							sxcu_path = ""
+							request_type = 1
+							request_method = 0
+							url = ""
+
+		[screencapper.config_category.chat]
+
+			[screencapper.config_category.chat.screencapper]
+
+				[screencapper.config_category.chat.screencapper.config]
+
+					[screencapper.config_category.chat.screencapper.config.chat]
+						upload = true
+						open_folder = true
+						copy = false
+						delete = true
+						open = true
+
+[optional]
+	show_sharex_properties = false
+
