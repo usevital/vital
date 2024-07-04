@@ -36,6 +36,8 @@ Vital contains quite a few mods to replace [Essential](https://modrinth.com/mod/
   - When you take a screenshot, it will give you a few options such as a button to upload the screenshot or copy it to your clipboard, or open it. The main menu also contains a screenshot feature.
 - Log into different accounts from ingame, or fix authentication issues without relaunching.
   - Simply go into the multiplayer menu and click on the little authentication button in the top left corner.
+- **Bonus**: Comes with the Reimagined GUI [Dark](https://modrinth.com/resourcepack/reimaginedguidark) and [Light](https://modrinth.com/resourcepack/reimaginedguilight) versions to have a similar aesthetic to Essential.
+  - This is not enabled by default, however, and you will have to enable it in the resource pack menu.
 
 ### 🚀 Improve performance
 
