@@ -49,6 +49,42 @@ file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
+file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/vital-title.txt"
+hash = "f0f5dfc9e71c611f17f0bc1a0f04bf22ed786173b15ceac054e29795592dc81a"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/options.txt"
+hash = "ae8b5883d90300dc94968ced1a336032bb8d5dc629123064068d72d8c3ab8608"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
@@ -208,6 +244,11 @@ hash = "9482698f74ff6b14e036af6e2539f65d370482decd30b496faf574b6ea54b797"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "55ce0ba80ac7d7d9c355baaefb3d6f29ff85f6fff5cdcd06ceb92e370dd8560a"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
 metafile = true
@@ -238,6 +279,11 @@ hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8e790b01d600080a22245594f1d6a7b5602c663d641d5398245e2bb722d80aee"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "ef364a31e3355d3b920af2530bac7a2dc4ed69f78e83bf219a616730a63051fa"
 metafile = true
@@ -250,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "bf4de1e2d9035914c21eaa28a66be9c790abc4ffba852f80181a3224d16e3999"
 metafile = true
 
 [[files]]

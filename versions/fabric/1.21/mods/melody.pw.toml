@@ -1,0 +1,13 @@
+name = "Melody"
+filename = "melody_fabric_1.0.10_MC_1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar"
+hash-format = "sha1"
+hash = "5624eea73f251c70a9489192d326f9b4aab3b13c"
+
+[update]
+[update.modrinth]
+mod-id = "CVT4pFB2"
+version = "OqxSeb4n"
