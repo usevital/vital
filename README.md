@@ -50,7 +50,7 @@ Vital is based on and kept in sync with the [Additive](https://modrinth.com/modp
 - Built-in shaders support
 - Dynamic lighting from held objects
 - Better grass and snow
-- OptiFine donator capes (and [free capes](https://github.com/skywardmc/additive/wiki/Supporter-cape))
+- OptiFine donator capes and free capes
 - [All OptiFine features and more information on the Additive wiki](https://github.com/skywardmc/additive/wiki/Give-up-OptiFine)
 
 ### 💡 Other features
