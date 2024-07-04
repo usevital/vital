@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/intergrav/Adrenaline">
+  <a href="https://github.com/intergrav/vital">
     <img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-banner.svg" alt="Vital">
   </a>
   <br />
