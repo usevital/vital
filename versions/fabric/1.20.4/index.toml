@@ -5,6 +5,18 @@ file = "config/craftpresence.json"
 hash = "b4b55849f2cf43f7a4b33c9152bfbe1e358a85bf4e1dbdb507d03bb3bc20d239"
 
 [[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/vital_title.txt"
+hash = "d4caaa6bc4c308925f06c8ea5bb1fe011e54c0f786402bee42317c89ff9c8bc8"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "ae8b5883d90300dc94968ced1a336032bb8d5dc629123064068d72d8c3ab8608"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "bc0fc8d6c64dfd1c2b5d5f0cfa68e7202597f13be91c4ca6e592649fb7dafa74"
 
@@ -59,18 +71,6 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 [[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/vital_title.txt"
-hash = "d4caaa6bc4c308925f06c8ea5bb1fe011e54c0f786402bee42317c89ff9c8bc8"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/options.txt"
-hash = "ae8b5883d90300dc94968ced1a336032bb8d5dc629123064068d72d8c3ab8608"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
