@@ -10,7 +10,7 @@ hash = "efc154c12c41d109c1d2bcaaac42cc1942bd257aecc7dc6959efb5b5a7f870bf"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7a8e698f0054554fe6358957db7e7c01d6677492b02f88aa2f2d3b40baad8c28"
+hash = "bc0fc8d6c64dfd1c2b5d5f0cfa68e7202597f13be91c4ca6e592649fb7dafa74"
 
 [[files]]
 file = "config/yosbr/Deftu/deftulib.toml"
