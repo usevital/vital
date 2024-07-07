@@ -127,11 +127,6 @@ hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
-metafile = true
-
-[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
 metafile = true
