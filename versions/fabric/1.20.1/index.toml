@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1c656fc8abd45dbc9ae2b5dfa714eba2339640ae45d6d0cff4808a9bb1c2fcdd"
+hash = "3532700b41c5b82a0b57b140d0eb2e6f36728c575901b077b39cacac5a4322c8"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
+hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
 metafile = true
 
 [[files]]
