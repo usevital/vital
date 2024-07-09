@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "3bab381802374fe85447c497a8540269291879c32ceb558122e47aacc7115617"
+hash = "fddc6c3210747150395ddcbd57259652ad352ca66afdce24c9478512647b3241"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "107a30b6707b10fdb91e20451a4d37b7c94fd418a82909989465ea39801f0372"
+hash = "c67e2c95dee4a96e10e45eb842fdf362356cf72a5dd1fc750df38749edfc9031"
 metafile = true
 
 [[files]]

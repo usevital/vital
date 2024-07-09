@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
+hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "9403535f04001da4567379d0bf3164cc9a8dacbee42ba48296059d4955cb309e"
+hash = "e4c094df5dc21d3e698d5024912222b6286c494d26f660bca5b1bdf7ebef8320"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "5d815da8dc55d64006acbb37437da7cd5e58e7a557e441ea7115d5d3f0768a6c"
+hash = "0374a62a31e020f03585ab824a6169a44e82adb33844f31fb097c2d76269579d"
 metafile = true
 
 [[files]]
