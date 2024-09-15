@@ -105,12 +105,20 @@ file = "config/yosbr/config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -124,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7294ffad8e498fe330bf6c367988e5a21be1a6568f33dcbc5d2583bba882aba2"
 metafile = true
 
 [[files]]
@@ -272,6 +285,11 @@ hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c56ddfdfccf143c8c6b5b93e9555d1c2d80ff7c1bdacd91dfede65785fa686b0"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -357,6 +375,11 @@ hash = "2a3952446f1c8e8e9be2f79676510faeb92c130c10ff74f2d8d2cf89db55708b"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "e78eab05d2bb55861865917d0caf1153ed4b631a4376a4c075d051162151c22a"
+metafile = true
+
+[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "da1b6ac54f9de87a18a47b4b65d61ce99c16f4d1c874da682c326b1474340097"
 metafile = true
@@ -374,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ff2f782be8090072041d0cd00abed11c1a22dfe2d397cd73e042f3b449954588"
 metafile = true
 
 [[files]]
