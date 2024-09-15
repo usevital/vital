@@ -1,0 +1,13 @@
+name = "Vital"
+author = "SkywardMC"
+version = "1.1.1+1.21.1.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0521d49b8fb4670bf189ac35b1b25d86b82a9a5843328b8d12a1e0c07b6876fc"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
