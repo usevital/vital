@@ -1,12 +1,12 @@
 name = "Vital"
 author = "SkywardMC"
-version = "1.1.1+1.20.1.fabric"
+version = "1.2.0+1.20.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e30d400e649a28bb5d6ea86b693bb099e9ba3d71d677a1ffa14d5ddd863af4ce"
+hash = "539edbeea6e91e7b5d3fa9a7b6e4f652e8e1a88afba4ef6a26cbaa5d90f1afe4"
 
 [versions]
 fabric = "0.16.5"
