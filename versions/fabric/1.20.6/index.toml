@@ -410,6 +410,11 @@ hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "3af2a685c3f4886e89806a1103af236caca38db490acc40e7198238acf8ac913"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "526f70783c226d6e6213aca1d3633a7989a2a347d25435d4aa047c2a0da8a3a1"
 metafile = true
