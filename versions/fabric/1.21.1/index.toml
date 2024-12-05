@@ -141,6 +141,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "6185d6951df8226115e35bd3e7e1e659a38f1d80b5da902ea4aa0e401e95cc47"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "88a820c55f782886fbb3d063b1db33d89c924012b20554cd5aec3d27f3ce1819"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "c78561717e3a430e52e9634a1200cf3a948c439afd1d59fb0d41be853ffd2a71"
 metafile = true
 
 [[files]]
@@ -316,6 +326,16 @@ hash = "cfbcb74eec1633a4941c2295cefdf6d1767cd9635494d5e2ec4351728468a3ab"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "c7ffe11bbb4bbf3b22698cbe096cd948916f2bb3fad7314f7700c1d6b3769b8e"
+metafile = true
+
+[[files]]
+file = "mods/snapper.pw.toml"
+hash = "37bc655ebb417b6624fbeddeeb3624fa771ad9af080c134fc427d6c85ddc3951"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -333,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "09a9057a7e7a899e27fc96a34a5d69d7803b86142ddd7199456e93d803b0b196"
 metafile = true
 
 [[files]]

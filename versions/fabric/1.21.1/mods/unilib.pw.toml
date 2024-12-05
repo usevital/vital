@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.0.4+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/I970Y1d7/UniLib-1.0.4%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "0c5ed8acbdd259341bb9ca0408ca2bd594d04fd15ab45000b2ae27e50ea89b1d3d22df434489c8c3c6da3d20c5b3b520b9ba559c5cee47d1f9babcd4534c26c1"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "I970Y1d7"
