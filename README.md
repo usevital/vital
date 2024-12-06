@@ -20,30 +20,30 @@
 
 Vital is a modpack designed as an **alternative to [Essential](https://modrinth.com/mod/essential)** (and OptiFine). It includes the majority of Essential and OptiFine's features, including but not limited to: world hosting, cosmetics, many resource pack features, shaders, and a major improvement in rendering and logic performance. It also includes some extra features, like input fixes for Linux and MacOS. This modpack is built and kept in sync with my other project, [Additive](https://modrinth.com/modpack/additive), which only includes the performance and OptiFine features. Want your own mods that aren't included in Vital? Don't worry! You can easily add your favorite mods after installation.
 
-# 🎯 Goals
+# ⭐ Features
 
-### ⭐ Essential features
+### 🔷 Essential alternatives
 
 Vital contains quite a few mods to replace [Essential](https://modrinth.com/mod/essential)'s features. These are not as consistent as Essential however they are still very simple to use, and some even have upsides over Essential's offering:
 
 - Free world hosting that's secure and private, and does not require the other players to use it. 
   - Simply click "Open to Friends" in the menu to share to your World Host friends, which they can access through the multiplayer menu. You can also type `/worldhost ip` to get an IP to send to people who aren't using the mod.
-- Completely free cosmetics from a marketplace full of community creations. Any other Vital, Cosmetica, or Fabulously Optimized user can see these cosmetics.
+- *([Cosmetica](https://modrinth.com/mod/cosmetica) currently missing in latest Vital versions)* Completely free cosmetics from a marketplace full of community creations. Any other Vital, Cosmetica, or Fabulously Optimized user can see these cosmetics.
   - You can access these in the mod menu or settings menu. You could also visit the [Cosmetica website](https://cosmetica.cc).
 - A bunch of neat skin management features.
   - Accessible through the main menu.
 - Screenshot improvements, such as previews and a screenshot viewer, along with screenshot uploading and copying.
-  - When you take a screenshot, it will give you a few options such as a button to upload the screenshot or copy it to your clipboard, or open it. The main menu also contains a screenshot feature.
-- Log into different accounts from ingame, or fix authentication issues without relaunching.
-  - Simply go into the multiplayer menu and click on the little authentication button in the top left corner.
+  - When you take a screenshot, it will let you view it easily. You can also manage your screenshots in-game.
+- Log into different accounts from ingame.
+  - Simply go into the main menu and select the account switcher.
 - **Bonus**: Comes with the Reimagined GUI [Dark](https://modrinth.com/resourcepack/reimaginedguidark) and [Light](https://modrinth.com/resourcepack/reimaginedguilight) versions to have a similar aesthetic to Essential.
   - This is not enabled by default, however, and you will have to enable it in the resource pack menu.
 
-### 🚀 Improve performance
+### 🚀 Major performance improvement
 
 Vital is based on and kept in sync with the [Additive](https://modrinth.com/modpack/Additive) modpack, which is based on the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack. Adrenaline's aim is to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
-### 🔍 OptiFine features
+### 🔍 OptiFine alternatives
 
 Vital is based on and kept in sync with the [Additive](https://modrinth.com/modpack/Additive) modpack, which utilizes various mods that offers the same features that OptiFine did while also being modular so that you can remove features you don't want or features that are incompatible with other mods. This includes, but is not limited to:
 
@@ -55,7 +55,7 @@ Vital is based on and kept in sync with the [Additive](https://modrinth.com/modp
 - OptiFine donator capes and free capes
 - [All OptiFine features and more information on the Additive wiki](https://github.com/skywardmc/additive/wiki/Give-up-OptiFine)
 
-### 💡 Other features
+### 💡 Other things
 
 Vital also includes some extra features unrelated to OptiFine, although I aim to keep this list of mods minimal. Mods are suitable for the "other features" section if they are lightweight and unobtrusive. This includes things like:
 
@@ -93,6 +93,6 @@ For a few frequently asked questions, along with tons of other information, cons
 
 # 🍉 Sponsor
 
-Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
