@@ -6,7 +6,7 @@ hash = "b4b55849f2cf43f7a4b33c9152bfbe1e358a85bf4e1dbdb507d03bb3bc20d239"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "062f0ab5fe82f6a1c4fdd5953fdfd57a50ad41f26a056ed57b63da2c509892f0"
+hash = "d65206b643dbca605ee3c90a479822440dac698134d3933171d9c15e55ce042e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -346,10 +346,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "9555ee234db6c5a8c7a28419523324a3a4d90ddbd6ba50c05748b943a2702921"
+hash = "de8100a6b088fef896933a76086b83cd6fba04e04a40785da3fca0f3960998b3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "b76e9a1f6964928ef66dd4bed090b813114f9b51e12df6e5a57d765ec6f493e4"
+hash = "a66c9b5b59e952c350cae360d0fa8358b2af9773dd03bd30caab7308416e66e3"
 metafile = true
