@@ -6,7 +6,7 @@ hash = "b4b55849f2cf43f7a4b33c9152bfbe1e358a85bf4e1dbdb507d03bb3bc20d239"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "766ce6d627f94088b473b36919ee3a6ca91372cb57d10b6d789db37cbcd741ea"
+hash = "7bf0da1d45085fb0191782d3164b9fde5f1b0a90e943e034ebcefe3cdcbac207"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -109,11 +109,6 @@ file = "config/yosbr/options.txt"
 hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -131,11 +126,6 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -201,16 +191,6 @@ metafile = true
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
 hash = "2b2a86c2dd5a5d781065964c53434bc6c73b6b6006bc1e08ea0b815985b25ddb"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "9baaaf98f919bf3258f50ae0b8552a53c16d298650cb90d48cbec6f96d1ef556"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
 metafile = true
 
 [[files]]
