@@ -1,5 +1,5 @@
 {
   "main_menu": {
-    "bottom_left": [{"text":"Vital 2.1.1 / 1.21.3 beta","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/vital"}}]
+    "bottom_left": [{"text":"Vital 2.1.1","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/vital"}}]
   }
 }
