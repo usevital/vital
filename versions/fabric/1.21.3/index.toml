@@ -330,11 +330,6 @@ hash = "1eebfcc58c465925a9e6ff7e6610760e2bf4176788b2a10befa7e8e4eab544c0"
 metafile = true
 
 [[files]]
-file = "mods/snapper.pw.toml"
-hash = "37bc655ebb417b6624fbeddeeb3624fa771ad9af080c134fc427d6c85ddc3951"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a18faac8593412b5ef8ee28bf49ebf7fcb16197aa4d2396dd0684b7defeb0b59"
 metafile = true
