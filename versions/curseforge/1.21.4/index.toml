@@ -6,7 +6,7 @@ hash = "b4b55849f2cf43f7a4b33c9152bfbe1e358a85bf4e1dbdb507d03bb3bc20d239"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "766ce6d627f94088b473b36919ee3a6ca91372cb57d10b6d789db37cbcd741ea"
+hash = "da41e50feeabe45098c10f38e64abb6e5f8234227dda43decd685b39e9f6335b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -178,11 +178,6 @@ hash = "d7f33e3150ae785b7470e9936fe2ef84eed4393c2ccf3788b5af12497b7d1165"
 metafile = true
 
 [[files]]
-file = "mods/esf-entity-sound-features.pw.toml"
-hash = "a4f30f44f2d509074c1094fccedb106374337bb4d7bc0481e630a83c99f1681c"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
 metafile = true
@@ -304,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
 
 [[files]]
