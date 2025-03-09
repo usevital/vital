@@ -203,11 +203,6 @@ hash = "a4daa9369dfcaee7ca6f9749ef7441381060dc3c146ddf96ca0fa3a094c5ab1d"
 metafile = true
 
 [[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "e10399c2132b5771cdd80d00b29f8aef21ea244882095488b08c3851c88d34e4"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "b31e45972ba08291e168f9d93ed14d679a8799983b7bce7ca38faa795a85bf3a"
 metafile = true
