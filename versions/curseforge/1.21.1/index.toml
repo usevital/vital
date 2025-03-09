@@ -138,6 +138,11 @@ hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "166eb6d53d1857518c55f44c85705a93cc16530d22c5ea5501efe3b08fd01a66"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "9c0bd9d64147f7e7e8b358a7bbbb390fa24d5ae051c1879dbc6c504035c70bdc"
 metafile = true

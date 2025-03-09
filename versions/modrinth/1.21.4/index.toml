@@ -139,6 +139,11 @@ hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "cbb8156afa51dc715bb7438e65da148afee8394f7faffb26f01e0604bc455a3b"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "7dfe328ddd9129a16440b63741dc4fbf6c5b5e709b4dd08845cb41156fe8339b"
 metafile = true
@@ -345,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ac0bd267b39fcbd3d2c1c7334f4ea6a5679f8949b46dd8fcb784ff1a11ca5b08"
+hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
 metafile = true
 
 [[files]]
