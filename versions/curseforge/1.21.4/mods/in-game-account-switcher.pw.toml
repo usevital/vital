@@ -1,0 +1,13 @@
+name = "In-Game Account Switcher"
+filename = "IAS-Fabric-1.21-9.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3acb6942d6e03bbda56fd52d87bfe9d04d270033"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5474315
+project-id = 232676

@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-fabric-1.21.4-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "640dbccca25883fcef8b7a29fe54d7eb6760c708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6168337
+project-id = 412013
