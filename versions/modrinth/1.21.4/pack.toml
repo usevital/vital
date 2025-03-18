@@ -1,6 +1,6 @@
 name = "Vital"
 author = "usevital, SkywardMC"
-version = "2.2.1+1.21.4.fabric"
+version = "2.2.2+1.21.4.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
